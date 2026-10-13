@@ -1,0 +1,4 @@
+# local scratch and report artefacts
+*.zip
+.dsh-*
+acl-*.jsonl
